@@ -28,12 +28,12 @@ This project demonstrates an analysis of pizza sales data across various categor
 
  ![2nd_Dashboard_Screeshot](https://github.com/user-attachments/assets/f666c857-13ef-450f-afea-9aa09b5c0c9c)
 
-## Insights
+### Insights
 - **Top Performing Pizzas**: The Thai Chicken Pizza Contributed to maximum Revenue.
 - **Peak Sales Hours**: Orders are highest on weekends, Friday/Saturday.
 - **Sales Performance**: Classic Category contributed to maximum sales & total order, large size pizza contributed to maximum sales.
 
-## How to Use the Dashboard
+### How to Use the Dashboard
 1. Download the `.pbix` file from this repository.
 2. Open it in Power BI Desktop to explore the dashboard and interact with the data.
 
