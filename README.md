@@ -19,11 +19,12 @@ This project demonstrates an analysis of pizza sales data across various categor
 
 - **1st Dashboard**:
   
- ![1st_Dashboard_Screeshot](https://github.com/user-attachments/assets/15331037-cfc1-47dd-8ae3-44c66e166758)
+![1st_Dashboard_Screenshot](https://github.com/user-attachments/assets/5f934c57-946a-44ee-bbce-76f57a0932cd)
+
  
 - **2nd Dashboard**:
   
-- ![2nd_Dashboard_Screenshot](https://github.com/user-attachments/assets/da6daf75-1056-4ca5-aa77-096d543620c5)
+![2nd_Dashboard_Screeshot](https://github.com/user-attachments/assets/96efcef5-90f6-498d-8111-ca6ccc6f1025)
 
 ### Insights
 - **Top Performing Pizzas**: The Thai Chicken Pizza Contributed to maximum Revenue.
