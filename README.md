@@ -15,6 +15,16 @@ This project demonstrates an analysis of pizza sales data across various categor
 - pizza_sales_data.csv`: The dataset used for the analysis.
 - Pizza Sales Analysis -Power BI Desktop: A short video of the Power BI dashboard.
 
+### Dashboard
+
+- **1st Dashboard**:
+  
+ ![1st_Dashboard_Screeshot](https://github.com/user-attachments/assets/15331037-cfc1-47dd-8ae3-44c66e166758)
+ 
+- **2nd Dashboard**:
+  
+- ![2nd_Dashboard_Screenshot](https://github.com/user-attachments/assets/da6daf75-1056-4ca5-aa77-096d543620c5)
+
 ### Insights
 - **Top Performing Pizzas**: The Thai Chicken Pizza Contributed to maximum Revenue.
 - **Peak Sales Hours**: Orders are highest on weekends, Friday/Saturday.
