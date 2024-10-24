@@ -11,9 +11,9 @@ This project demonstrates an analysis of pizza sales data across various categor
 **Power BI**: For dashboard creation and data visualization.
 
 ### Project Files
-- Pizza_Sales_Dashboard.pbix`: The Power BI file containing the dashboard.
+- Pizza_Sales_Analysis.pbix`: The Power BI file containing the dashboard.
 - pizza_sales_data.csv`: The dataset used for the analysis.
-- dashboard_screenshot.png`: A short video the Power BI dashboard.
+- Pizza Sales Analysis -Power BI Desktop: A short video of the Power BI dashboard.
 
 ### Insights
 - **Top Performing Pizzas**: The Thai Chicken Pizza Contributed to maximum Revenue.
