@@ -1,28 +1,33 @@
 # Pizza-Sales-Analysis-Power-BI
 A Power BI dashboard analyzing pizza sales trends, sales performance, best sellers and worst sellers.
 
-## Project Overview
+### Project Overview
 This project demonstrates an analysis of pizza sales data across various categories, sizes and customer behaviour using power BI.The goal was to uncover insights that would help in improving sales strategies, managing inventory, and identifying peak sales times.
 
-## Key Features
-- ### **Sales Trends** :
-- Analysis of sales over time to identify peak periods and slow seasons.
-- ### **Top Products**:
-- Insights into the best-selling pizzas by Revenue, Quantity and Total Orders.
-- ### **Customer Analysis**:
-- Breakdown of sales performance by category and size.
-- ### **Interactive Dashboard**:
-- Built with Power BI for real-time filtering and insights.
+### Key Features
+- **Sales Trends**: Analysis of sales over time to identify peak periods and slow seasons.
+- **Top Products**: Insights into the best-selling pizzas by Revenue, Quantity and Total Orders.
+- **Customer Analysis**: Breakdown of sales performance by category and size.
+- **Interactive Dashboard**: Built with Power BI for real-time filtering and insights.
 
-## Tools and Technologies
-- ### **Power BI**:
-- For dashboard creation and data visualization.
+### Tools and Technologies
+- **Power BI**: For dashboard creation and data visualization.
 
-## Project Files
+### Project Files
 -
 -
 -
 -
+### Dashboards
+
+- **1st Dashboard**:
+
+  ![1st_Dashboard_Screenshot](https://github.com/user-attachments/assets/8754e10c-0aa4-4bc2-8aba-416320229a2c)
+
+- **2nd Dasgboard**:
+
+ ![2nd_Dashboard_Screeshot](https://github.com/user-attachments/assets/f666c857-13ef-450f-afea-9aa09b5c0c9c)
+
 ## Insights
 - ### **Top Performing Pizzas**:
 - The Thai Chicken Pizza Contributed to maximum Revenue.
