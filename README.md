@@ -14,10 +14,10 @@ This project demonstrates an analysis of pizza sales data across various categor
 - **Power BI**: For dashboard creation and data visualization.
 
 ### Project Files
--
--
--
--
+- Dashboard.pbix: The Power BI file containing the dashboard.
+- pizza_sales.csv: The dataset used for the analysis.
+- Dashboard_screenshot.png`: Screenshot of the Power BI dashboard.
+
 ### Dashboards
 
 - **1st Dashboard**:
@@ -29,12 +29,9 @@ This project demonstrates an analysis of pizza sales data across various categor
  ![2nd_Dashboard_Screeshot](https://github.com/user-attachments/assets/f666c857-13ef-450f-afea-9aa09b5c0c9c)
 
 ## Insights
-- ### **Top Performing Pizzas**:
-- The Thai Chicken Pizza Contributed to maximum Revenue.
-- ### **Peak Sales Hours**:
-- Orders are highest on weekends, Friday/Saturday.
-- ### **Sales Performance**:
-- Classic Category contributed to maximum sales & total order, large size pizza contributed to maximum sales.
+- **Top Performing Pizzas**: The Thai Chicken Pizza Contributed to maximum Revenue.
+- **Peak Sales Hours**: Orders are highest on weekends, Friday/Saturday.
+- **Sales Performance**: Classic Category contributed to maximum sales & total order, large size pizza contributed to maximum sales.
 
 ## How to Use the Dashboard
 1. Download the `.pbix` file from this repository.
